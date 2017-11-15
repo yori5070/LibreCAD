@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="mk">
+<TS version="2.1" language="mk">
 <context>
     <name>AsciiFile</name>
     <message>
@@ -733,57 +733,135 @@
 <context>
     <name>lc_Geardlg</name>
     <message>
-        <location filename="../gear/gear.cpp" line="66"/>
         <source>Draw a gear</source>
-        <translation>цртај опрема</translation>
+        <translation type="vanished">цртај опрема</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="71"/>
+        <location filename="../gear/gear.cpp" line="122"/>
         <source>Number of teeth</source>
         <translation>броја на заби</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="79"/>
         <source>Circular pitch</source>
-        <translation>кружен терен</translation>
+        <translation type="vanished">кружен терен</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="87"/>
+        <location filename="../gear/gear.cpp" line="124"/>
         <source>Pressure angle (deg)</source>
         <translation>оттргнат агол</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="95"/>
         <source>Addendum</source>
-        <translation>дополни</translation>
+        <translation type="vanished">дополни</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="103"/>
         <source>Dedendum</source>
-        <translation>бриши</translation>
+        <translation type="vanished">бриши</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="111"/>
         <source>Type</source>
-        <translation>тип</translation>
+        <translation type="vanished">тип</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="114"/>
         <source>Spur</source>
-        <translation>поттикни</translation>
+        <translation type="vanished">поттикни</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="115"/>
         <source>Ring</source>
-        <translation>ѕвони</translation>
+        <translation type="vanished">ѕвони</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="119"/>
+        <location filename="../gear/gear.cpp" line="121"/>
+        <source>Rotation angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="123"/>
+        <source>Modulus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="125"/>
+        <source>Addendum (rel. to modulus)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="126"/>
+        <source>Dedendum (rel. to modulus)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="127"/>
+        <source>Number of segments to draw (dedendum)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="128"/>
+        <source>Number of segments to draw (addendum)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="129"/>
+        <source>Draw all teeth?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="130"/>
+        <source>Draw symmetric face?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="132"/>
+        <source>Use layers?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="133"/>
+        <source>Draw addendum circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="134"/>
+        <source>Draw pitch circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="135"/>
+        <source>Draw base circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="136"/>
+        <source>Draw root circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="137"/>
+        <source>Draw pressure line?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="138"/>
+        <source>Draw pressure limits?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="140"/>
+        <source>Calculate interference?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="141"/>
+        <source>Number of segments to draw (interference)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="143"/>
         <source>Accept</source>
         <translation>прифати</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="124"/>
+        <location filename="../gear/gear.cpp" line="144"/>
         <source>Cancel</source>
         <translation>откажи</translation>
     </message>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>ColorWizard</name>
     <message>
@@ -96,6 +96,29 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
 </context>
 <context>
+    <name>LC_ActionDrawLinePolygonCenTan</name>
+    <message>
+        <source>Specify center</source>
+        <translation>中心指定</translation>
+    </message>
+    <message>
+        <source>Specify a tangent</source>
+        <translation>接線を指定</translation>
+    </message>
+    <message>
+        <source>Enter number:</source>
+        <translation>数値入力:</translation>
+    </message>
+    <message>
+        <source>Not a valid number. Try 1..9999</source>
+        <translation>有効な数値ではありません。1..9999まで</translation>
+    </message>
+    <message>
+        <source>Not a valid expression</source>
+        <translation>式は無効です</translation>
+    </message>
+</context>
+<context>
     <name>LC_ActionDrawSplinePoints</name>
     <message>
         <source>Specify first control point</source>
@@ -178,7 +201,7 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <source>&amp;Horizontal</source>
-        <translation>水平寸法(&amp;H)</translation>
+        <translation>水平線(&amp;H)</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -218,11 +241,11 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <source>Orthogonal</source>
-        <translation>垂線</translation>
+        <translation>直交線</translation>
     </message>
     <message>
         <source>Relative angle</source>
-        <translation>相対角度</translation>
+        <translation>交差線（角度指定）</translation>
     </message>
     <message>
         <source>Pol&amp;ygon (Cen,Cor)</source>
@@ -895,6 +918,10 @@ distance between points=%2 is larger than diameter=%3</source>
         <source>Ctrl+D</source>
         <comment>Toggle Draft Mode</comment>
         <translation>Ctrl+D</translation>
+    </message>
+    <message>
+        <source>Pol&amp;ygon (Cen,Tan)</source>
+        <translation>多角形（中心と接線）(&amp;y)</translation>
     </message>
 </context>
 <context>
@@ -1776,7 +1803,7 @@ Please check its existence and permissions.</source>
     </message>
     <message>
         <source>Dock Wid&amp;gets</source>
-        <translation>ドックウィジェット(&amp;g)</translation>
+        <translation>ドック・ウィジット(&amp;g)</translation>
     </message>
     <message>
         <source>Recent Files</source>
@@ -1824,7 +1851,8 @@ Please check its existence and permissions.</source>
     </message>
     <message>
         <source>&amp;Drawings</source>
-        <translation>製図(&amp;D)</translation>
+        <translatorcomment>訳はメニューで一般に使われているもの</translatorcomment>
+        <translation>ウィンドウ(&amp;D)</translation>
     </message>
     <message>
         <source>Help Links</source>
@@ -1833,6 +1861,10 @@ Please check its existence and permissions.</source>
     <message>
         <source>Online</source>
         <translation>オンライン</translation>
+    </message>
+    <message>
+        <source>Widgets</source>
+        <translation>ウィジット</translation>
     </message>
 </context>
 <context>
@@ -2272,19 +2304,19 @@ in a separate window</source>
         <source>Label:</source>
         <translation type="obsolete">ラベル:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation type="obsolete">°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation type="obsolete">±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation type="obsolete">×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation type="obsolete">÷</translation>
     </message>
@@ -2292,11 +2324,11 @@ in a separate window</source>
         <source>...</source>
         <translation type="obsolete">...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation type="obsolete">⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation type="obsolete">π</translation>
     </message>
@@ -2319,27 +2351,27 @@ in a separate window</source>
         <source>Insert:</source>
         <translation>挿入:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>° (Degree)</source>
         <translation>° (角度)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>± (Plus / Minus)</source>
         <translation>± (プラス/マイナス)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>× (Times)</source>
         <translation>× (乗算)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷ (Division)</source>
         <translation>÷ (除算)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀ (Diameter)</source>
         <translation>⌀ (直径)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π (Pi)</source>
         <translation>π (円周率)</translation>
     </message>
@@ -2812,11 +2844,11 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>Insert Symbol</source>
         <translation>シンボル挿入</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>角度 (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>プラス/マイナス (±)</translation>
     </message>
@@ -2832,35 +2864,35 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>Dollar ($)</source>
         <translation>ドル ($)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>商標 (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>登録 (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>段落 (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>円周率 (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>ポンド (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>日本円 (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>乗算 (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>除算 (÷)</translation>
     </message>
@@ -3308,7 +3340,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>[100000-10FFFD] Supplementary Private Use Area-B</source>
         <translation>[100000-10FFFD] 補助私用領域B</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>直径 (⌀)</translation>
     </message>
@@ -3788,6 +3820,14 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>fixed extension line legth</source>
         <translation>固定された延長線の長さ</translation>
     </message>
+    <message>
+        <source>Architectural (metric)</source>
+        <translation>建築（メートル法）</translation>
+    </message>
+    <message>
+        <source>For the length format &apos;Architectural (metric)&apos;, the unit must be set to Meter.</source>
+        <translation>長さ書式（メートル法）、単位はメートル法に設定すること。</translation>
+    </message>
 </context>
 <context>
     <name>QG_DlgOptionsGeneral</name>
@@ -4150,7 +4190,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
     </message>
     <message>
         <source>Enable CAD dockwidgets</source>
-        <translation>ドックウィジットを表示する</translation>
+        <translation>ドック・ウィジットを表示する</translation>
     </message>
     <message>
         <source>Enable CAD toolbars</source>
@@ -4242,7 +4282,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>MakerCAM as of March 2015 cannot display ellipses and ellipse arcs correctly, when they are created using the &lt;ellipse&gt; tag  with a rotation in the &quot;transform&quot; attribute or as &lt;path&gt; using elliptic arc segments.</source>
         <translation>2015年3月現在、MakerCAMは楕円と楕円の弧を正しく表示できない、&lt;ellipse&gt; タグを使って作成される時には &quot;transform&quot; 属性での回転か楕円の弧セグメントを使っている &lt;path&gt; として作成される.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Approximate ellipses and ellipse arcs with cubic béziers</source>
         <translation>おおよそ楕円と方形のベジエによる楕円の弧</translation>
     </message>
@@ -4999,43 +5039,43 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>&amp;Height:</source>
         <translation>高さ(&amp;H):</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>角度 (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>プラス/マイナス (±)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>商標 (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>登録 (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>段落 (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>円周率 (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>ポンド (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>日本円 (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>乗算 (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>除算 (÷)</translation>
     </message>
@@ -5091,7 +5131,7 @@ Please choose the unit you want to use for new drawings and your preferred langu
         <source>Middle</source>
         <translation type="obsolete">中点</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>直径 (⌀)</translation>
     </message>
@@ -8923,7 +8963,7 @@ Continue?</source>
     </message>
     <message>
         <source>Specify position</source>
-        <translation>位置指示</translation>
+        <translation>座標指示</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9177,7 +9217,7 @@ Continue?</source>
     </message>
     <message>
         <source>Specify position</source>
-        <translation>位置指示</translation>
+        <translation>座標指示</translation>
     </message>
     <message>
         <source>Back</source>
@@ -9245,7 +9285,7 @@ Continue?</source>
     <name>RS_ActionDrawPoint</name>
     <message>
         <source>Specify location</source>
-        <translation>位置指示</translation>
+        <translation>座標指示</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10541,27 +10581,27 @@ Continue?</source>
         <source>Label:</source>
         <translation>ラベル:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation>⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation>°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation>±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation>π</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation>×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation>÷</translation>
     </message>
@@ -10695,7 +10735,7 @@ Continue?</source>
     </message>
     <message>
         <source>Snap Point:</source>
-        <translation>点スナップ:</translation>
+        <translation>座標交点:</translation>
     </message>
     <message>
         <source>Start</source>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>AsciiFile</name>
     <message>
@@ -153,7 +153,7 @@
     <message>
         <location filename="../list/list.cpp" line="113"/>
         <source>Inc.</source>
-        <translation>始点、終点の距離</translation>
+        <translation>始点、終点の距離.</translation>
     </message>
     <message>
         <location filename="../list/list.cpp" line="118"/>
@@ -733,57 +733,140 @@
 <context>
     <name>lc_Geardlg</name>
     <message>
-        <location filename="../gear/gear.cpp" line="66"/>
         <source>Draw a gear</source>
-        <translation>歯車を描く</translation>
+        <translation type="vanished">歯車を描く</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="71"/>
+        <location filename="../gear/gear.cpp" line="122"/>
         <source>Number of teeth</source>
         <translation>歯数</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="79"/>
         <source>Circular pitch</source>
-        <translation>円形ピッチ</translation>
+        <translatorcomment>歯車の用語に合わせる</translatorcomment>
+        <translation type="vanished">ピッチ</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="87"/>
+        <location filename="../gear/gear.cpp" line="124"/>
         <source>Pressure angle (deg)</source>
         <translation>圧力角（度）</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="95"/>
         <source>Addendum</source>
-        <translation>補遺</translation>
+        <translatorcomment>歯車の用語に合わせる</translatorcomment>
+        <translation type="vanished">転移量</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="103"/>
         <source>Dedendum</source>
-        <translation>歯元</translation>
+        <translatorcomment>歯車用語に合わせる</translatorcomment>
+        <translation type="vanished">歯元のたけ</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="111"/>
         <source>Type</source>
-        <translation>タイプ</translation>
+        <translation type="vanished">形状</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="114"/>
         <source>Spur</source>
-        <translation>平歯車</translation>
+        <translatorcomment>歯車の用語に合わせる</translatorcomment>
+        <translation type="vanished">平歯車</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="115"/>
         <source>Ring</source>
-        <translation>リング</translation>
+        <translatorcomment>歯車の用語に合わせる</translatorcomment>
+        <translation type="vanished">内歯車</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="119"/>
+        <location filename="../gear/gear.cpp" line="121"/>
+        <source>Rotation angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="123"/>
+        <source>Modulus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="125"/>
+        <source>Addendum (rel. to modulus)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="126"/>
+        <source>Dedendum (rel. to modulus)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="127"/>
+        <source>Number of segments to draw (dedendum)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="128"/>
+        <source>Number of segments to draw (addendum)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="129"/>
+        <source>Draw all teeth?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="130"/>
+        <source>Draw symmetric face?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="132"/>
+        <source>Use layers?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="133"/>
+        <source>Draw addendum circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="134"/>
+        <source>Draw pitch circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="135"/>
+        <source>Draw base circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="136"/>
+        <source>Draw root circle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="137"/>
+        <source>Draw pressure line?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="138"/>
+        <source>Draw pressure limits?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="140"/>
+        <source>Calculate interference?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="141"/>
+        <source>Number of segments to draw (interference)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="143"/>
         <source>Accept</source>
-        <translation>受け入れる</translation>
+        <translation>適用</translation>
     </message>
     <message>
-        <location filename="../gear/gear.cpp" line="124"/>
+        <location filename="../gear/gear.cpp" line="144"/>
         <source>Cancel</source>
         <translation>中止</translation>
     </message>

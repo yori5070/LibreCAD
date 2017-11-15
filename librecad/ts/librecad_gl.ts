@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="gl">
+<TS version="2.1" language="gl">
 <context>
     <name>ColorWizard</name>
     <message>
@@ -112,6 +112,29 @@ A distancia entre puntos=%2 é maior ca o diámetro=%3</translation>
     <message>
         <source>Select circle center</source>
         <translation>Seleccione o centro do círculo</translation>
+    </message>
+</context>
+<context>
+    <name>LC_ActionDrawLinePolygonCenTan</name>
+    <message>
+        <source>Specify center</source>
+        <translation type="unfinished">Especifique o centro</translation>
+    </message>
+    <message>
+        <source>Specify a tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter number:</source>
+        <translation type="unfinished">Introducir cantidade:</translation>
+    </message>
+    <message>
+        <source>Not a valid number. Try 1..9999</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not a valid expression</source>
+        <translation type="unfinished">Non é unha expresión válida</translation>
     </message>
 </context>
 <context>
@@ -902,6 +925,10 @@ A distancia entre puntos=%2 é maior ca o diámetro=%3</translation>
         <source>Ctrl+D</source>
         <comment>Toggle Draft Mode</comment>
         <translation>Ctrl+D</translation>
+    </message>
+    <message>
+        <source>Pol&amp;ygon (Cen,Tan)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1697,6 +1724,10 @@ Por favor comprobe se existe e mais se ten permiso.</translation>
     <message>
         <source>Online</source>
         <translation>En liña</translation>
+    </message>
+    <message>
+        <source>Widgets</source>
+        <translation type="unfinished">&amp;Widgets</translation>
     </message>
 </context>
 <context>
@@ -2819,19 +2850,19 @@ p, li { white-space: pre-wrap; }
         <source>Label:</source>
         <translation type="obsolete">Etiqueta:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation type="obsolete">°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation type="obsolete">±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation type="obsolete">×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation type="obsolete">÷</translation>
     </message>
@@ -2839,11 +2870,11 @@ p, li { white-space: pre-wrap; }
         <source>...</source>
         <translation type="obsolete">...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation type="obsolete">⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation type="obsolete">π</translation>
     </message>
@@ -2866,27 +2897,27 @@ p, li { white-space: pre-wrap; }
         <source>Insert:</source>
         <translation>Inserir:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>° (Degree)</source>
         <translation>° (Grao)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>± (Plus / Minus)</source>
         <translation>± (Máis / Menos)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>× (Times)</source>
         <translation>× (Por)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷ (Division)</source>
         <translation>÷ (Partido por)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀ (Diameter)</source>
         <translation>⌀ (Diámetro)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π (Pi)</source>
         <translation>π (Pi)</translation>
     </message>
@@ -3358,11 +3389,11 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>Insert Symbol</source>
         <translation>Inserir símbolo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>Graos (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>Máis / Menos (±)</translation>
     </message>
@@ -3378,35 +3409,35 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>Dollar ($)</source>
         <translation>Dólar ($)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>Copyright (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>Rexistrada (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>Parágrafo (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>Pi (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>Libra (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>Ien (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>Por (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>Partido por (÷)</translation>
     </message>
@@ -3854,7 +3885,7 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>[100000-10FFFD] Supplementary Private Use Area-B</source>
         <translation>[100000-10FFFD] Área de uso privativo suplementaria-B</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>Diámetro (⌀)</translation>
     </message>
@@ -4358,6 +4389,14 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>fixed extension line legth</source>
         <translation>Lonxitude fixa da liña auxiliar</translation>
     </message>
+    <message>
+        <source>Architectural (metric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For the length format &apos;Architectural (metric)&apos;, the unit must be set to Meter.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QG_DlgOptionsGeneral</name>
@@ -4832,7 +4871,7 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>MakerCAM as of March 2015 cannot display ellipses and ellipse arcs correctly, when they are created using the &lt;ellipse&gt; tag  with a rotation in the &quot;transform&quot; attribute or as &lt;path&gt; using elliptic arc segments.</source>
         <translation>Desde marzo de 2015, MakerCAM non pode amosar elipses e arcos de elipse correctamente, cando son creados usando o tag &lt;elipse&gt;  cunha rotación no atributo &quot;transformar&quot; ou como &lt;camiño&gt; usando segmentos de arco elípticos.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Approximate ellipses and ellipse arcs with cubic béziers</source>
         <translation>Aproximar elipses e arcos de elipse con curvas de Bézier cúbicas</translation>
     </message>
@@ -5129,11 +5168,11 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>Insert Symbol</source>
         <translation>Inserir símbolo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>Graos (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>Máis / menos (±)</translation>
     </message>
@@ -5149,35 +5188,35 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>Dollar ($)</source>
         <translation>Dólar ($)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>Copyright (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>Rexistrada (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>Parágrafo (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>Pi (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>Libra (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>Ien (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>Por (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>Partido por (÷)</translation>
     </message>
@@ -5681,7 +5720,7 @@ Por favor, escolla as unidades preferidas para usar nos debuxos novos e mais a s
         <source>Middle</source>
         <translation type="obsolete">O medio</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>Diámetro (⌀)</translation>
     </message>
@@ -12740,27 +12779,27 @@ Seguir?</translation>
         <source>Label:</source>
         <translation>Etiqueta:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation>⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation>°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation>±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation>π</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation>×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation>÷</translation>
     </message>

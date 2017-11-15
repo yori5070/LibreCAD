@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ca" sourcelanguage="en">
+<TS version="2.1" language="ca" sourcelanguage="en">
 <context>
     <name>ColorWizard</name>
     <message>
@@ -116,6 +116,29 @@ la distància entre els punts=%2 és més gran que el diàmetre=%3</translation>
     <message>
         <source>Select circle center</source>
         <translation>Seleccioneu el centre del cercle</translation>
+    </message>
+</context>
+<context>
+    <name>LC_ActionDrawLinePolygonCenTan</name>
+    <message>
+        <source>Specify center</source>
+        <translation type="unfinished">Especifiqueu el centre</translation>
+    </message>
+    <message>
+        <source>Specify a tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter number:</source>
+        <translation type="unfinished">Introduïu el nombre:</translation>
+    </message>
+    <message>
+        <source>Not a valid number. Try 1..9999</source>
+        <translation type="unfinished">El nombre no és vàlid. Proveu entre 1 i 9999</translation>
+    </message>
+    <message>
+        <source>Not a valid expression</source>
+        <translation type="unfinished">L&apos;expressió no és vàlida</translation>
     </message>
 </context>
 <context>
@@ -902,6 +925,10 @@ la distància entre els punts=%2 és més gran que el diàmetre=%3</translation>
         <source>Ctrl+D</source>
         <comment>Toggle Draft Mode</comment>
         <translation>Ctrl+D</translation>
+    </message>
+    <message>
+        <source>Pol&amp;ygon (Cen,Tan)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1692,6 +1719,10 @@ Comproveu la seva existència i els permisos.</translation>
     <message>
         <source>Online</source>
         <translation>En línia</translation>
+    </message>
+    <message>
+        <source>Widgets</source>
+        <translation type="unfinished">Estris</translation>
     </message>
 </context>
 <context>
@@ -2911,27 +2942,27 @@ p, li { white-space: pre-wrap; }
         <source>Label:</source>
         <translation type="obsolete">Etiqueta:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ø</source>
         <translation type="obsolete">ø</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation type="obsolete">°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation type="obsolete">±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>¶</source>
         <translation type="obsolete">¶</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation type="obsolete">×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation type="obsolete">÷</translation>
     </message>
@@ -2939,11 +2970,11 @@ p, li { white-space: pre-wrap; }
         <source>...</source>
         <translation type="obsolete">...</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation type="obsolete">⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation type="obsolete">π</translation>
     </message>
@@ -2966,35 +2997,35 @@ p, li { white-space: pre-wrap; }
         <source>Insert:</source>
         <translation>Insereix:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>ø (Diameter)</source>
         <translation type="obsolete">ø (Diametre)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>° (Degree)</source>
         <translation>° (Grau)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>± (Plus / Minus)</source>
         <translation>± (Més / Menys)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>¶ (Pi)</source>
         <translation type="obsolete">¶ (Pi)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>× (Times)</source>
         <translation>× (Multiplicació)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷ (Division)</source>
         <translation>÷ (Divisió)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀ (Diameter)</source>
         <translation>⌀ (Diàmetre)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π (Pi)</source>
         <translation>π (Pi)</translation>
     </message>
@@ -3618,15 +3649,15 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>Insert Symbol</source>
         <translation>Insereix un símbol</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (ø)</source>
         <translation type="obsolete">Diàmetre (ø)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>Grau (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>Més / Menys (±)</translation>
     </message>
@@ -3642,35 +3673,35 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>Dollar ($)</source>
         <translation>Dòlar ($)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>Copyright (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>Registrat (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>Paràgraf (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>Pi (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>Lliura (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>Ien (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>Multiplicació (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>Divisió (÷)</translation>
     </message>
@@ -4118,7 +4149,7 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>[100000-10FFFD] Supplementary Private Use Area-B</source>
         <translation>[100000-10FFFD] Àrea d&apos;ús privat suplementari-B</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>Diàmetre (⌀)</translation>
     </message>
@@ -4774,6 +4805,14 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>fixed extension line legth</source>
         <translation>Longitud fixa de la línia d&apos;extensió</translation>
     </message>
+    <message>
+        <source>Architectural (metric)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For the length format &apos;Architectural (metric)&apos;, the unit must be set to Meter.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QG_DlgOptionsGeneral</name>
@@ -5356,7 +5395,7 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>MakerCAM as of March 2015 cannot display ellipses and ellipse arcs correctly, when they are created using the &lt;ellipse&gt; tag  with a rotation in the &quot;transform&quot; attribute or as &lt;path&gt; using elliptic arc segments.</source>
         <translation>MakerCAM a partir del març del 2015 no pot mostrar correctament les el·lipses i els arcs de l&apos;el·lipse, quan es creïn amb l&apos;etiqueta &lt;ellipse&gt; amb una rotació en l&apos;atribut &quot;transform&quot; o com a &lt;path&gt; mitjançant segments d&apos;arcs el·líptics.</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Approximate ellipses and ellipse arcs with cubic béziers</source>
         <translation>Aproximació de les el·lipses i els arcs de l&apos;el·lipse amb corbes cúbiques de Bézier</translation>
     </message>
@@ -5741,15 +5780,15 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>Insert Symbol</source>
         <translation>Insereix un símbol</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (ø)</source>
         <translation type="obsolete">Diàmetre (ø)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Degree (°)</source>
         <translation>Grau (°)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Plus / Minus (±)</source>
         <translation>Més / Menys (±)</translation>
     </message>
@@ -5765,35 +5804,35 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>Dollar ($)</source>
         <translation>Dòlar ($)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Copyright (©)</source>
         <translation>Copyright (©)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Registered (®)</source>
         <translation>Registrat (®)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Paragraph (§)</source>
         <translation>Paràgraf (§)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pi (π)</source>
         <translation>Pi (π)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Pound (£)</source>
         <translation>Lliura (£)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Yen (¥)</source>
         <translation>Ien (¥)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Times (×)</source>
         <translation>Multiplicació (×)</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Division (÷)</source>
         <translation>Divisió (÷)</translation>
     </message>
@@ -6317,7 +6356,7 @@ Seleccioneu la unitat que voleu utilitzar per als dibuixos nous i el vostre idio
         <source>Middle</source>
         <translation type="obsolete">Centra</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>Diameter (⌀)</source>
         <translation>Diàmetre (⌀)</translation>
     </message>
@@ -13647,27 +13686,27 @@ Voleu continuar?</translation>
         <source>Label:</source>
         <translation>Etiqueta:</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>⌀</source>
         <translation>⌀</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>°</source>
         <translation>°</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>±</source>
         <translation>±</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>π</source>
         <translation>π</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>×</source>
         <translation>×</translation>
     </message>
-    <message utf8="true">
+    <message>
         <source>÷</source>
         <translation>÷</translation>
     </message>
