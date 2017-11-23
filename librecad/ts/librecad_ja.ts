@@ -1866,6 +1866,10 @@ Please check its existence and permissions.</source>
         <source>Widgets</source>
         <translation>ウィジット</translation>
     </message>
+    <message>
+        <source>DefaultCustom</source>
+        <translation type="unfinished">カスタム操作</translation>
+    </message>
 </context>
 <context>
     <name>QC_MDIWindow</name>

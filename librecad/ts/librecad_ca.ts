@@ -1724,6 +1724,10 @@ Comproveu la seva existència i els permisos.</translation>
         <source>Widgets</source>
         <translation type="unfinished">Estris</translation>
     </message>
+    <message>
+        <source>DefaultCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QC_MDIWindow</name>

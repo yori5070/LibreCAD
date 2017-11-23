@@ -1721,6 +1721,10 @@ Lūdzu, pārbaudiet, vai tā eksistē un vai ir pareizas atļaujas.</translation
         <source>Widgets</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>DefaultCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QC_MDIWindow</name>

@@ -1729,6 +1729,10 @@ Por favor comprobe se existe e mais se ten permiso.</translation>
         <source>Widgets</source>
         <translation type="unfinished">&amp;Widgets</translation>
     </message>
+    <message>
+        <source>DefaultCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QC_MDIWindow</name>

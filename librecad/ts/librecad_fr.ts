@@ -1680,6 +1680,10 @@ Veuillez vérifiez son existance ainsi que les droits d&apos;accès.</translatio
         <source>Widgets</source>
         <translation type="unfinished">Widgets</translation>
     </message>
+    <message>
+        <source>DefaultCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QC_MDIWindow</name>

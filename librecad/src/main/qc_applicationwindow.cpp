@@ -258,7 +258,7 @@ QC_ApplicationWindow::QC_ApplicationWindow()
              << "BlocksCreate"
              << "DrawPoint";
 
-        auto toolbar = new QToolBar("DefaultCustom", this);
+        auto toolbar = new QToolBar(QC_ApplicationWindow::tr("DefaultCustom"), this);
         toolbar->setObjectName("DefaultCustom");
         foreach (auto action, list)
         {
