@@ -56,7 +56,7 @@ void LC_Gear::execComm(Document_Interface *doc,
     Q_UNUSED(cmd);
 
     QPointF center;
-    if (!doc->getPoint(&center, QString("select center"))) {
+    if (!doc->getPoint(&center, QString(tr("select center")))) {
         return;
     }
 
