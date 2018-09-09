@@ -14,6 +14,10 @@
         <source>Import ESRI Shapefile</source>
         <translation>Importēt ESRI figūru datni</translation>
     </message>
+    <message>
+        <source>ESRI Shapefile</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LC_Align</name>
@@ -46,6 +50,10 @@
     </message>
     <message>
         <source>Gear plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>select center</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

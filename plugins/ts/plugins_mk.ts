@@ -13,6 +13,11 @@
 <context>
     <name>ImportShp</name>
     <message>
+        <location filename="../importshp/importshp.cpp" line="34"/>
+        <source>ESRI Shapefile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../importshp/importshp.cpp" line="40"/>
         <source>Import ESRI Shapefile</source>
         <translation>Увези фајл со ESRI форма</translation>
@@ -58,6 +63,11 @@
         <location filename="../gear/gear.cpp" line="40"/>
         <source>Gear plugin</source>
         <translation>Додаток за запчаници</translation>
+    </message>
+    <message>
+        <location filename="../gear/gear.cpp" line="59"/>
+        <source>select center</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

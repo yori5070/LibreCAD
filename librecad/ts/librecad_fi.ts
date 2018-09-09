@@ -1226,152 +1226,152 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">Suoritetaan skriptiä ’%1’</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="487"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="488"/>
         <source>Categories</source>
         <translation>Kategoriat</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="557"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="558"/>
         <source>&amp;File</source>
         <translation>&amp;Tiedosto</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="561"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="562"/>
         <source>Import</source>
         <translation>Tuo</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="591"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="592"/>
         <source>&amp;Edit</source>
         <translation>&amp;Muokkaa</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="606"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="607"/>
         <source>Pl&amp;ugins</source>
         <translation>&amp;Liitännäiset</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="630"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="631"/>
         <source>&amp;Tools</source>
         <translation>T&amp;yökalut</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="679"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="680"/>
         <source>Dime&amp;nsion</source>
         <translation>Ulottuvuus</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="687"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="688"/>
         <source>&amp;Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="755"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="756"/>
         <source>Online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="786"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="787"/>
         <source>Dock Wid&amp;gets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="341"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="342"/>
         <source>Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="612"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="613"/>
         <source>&amp;View</source>
         <translation>&amp;Näytä</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="223"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="448"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="224"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="449"/>
         <source>Select</source>
         <translation>Valitse</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="198"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="418"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="199"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="419"/>
         <source>Line</source>
         <translation>Viiva</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="203"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="424"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="204"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="425"/>
         <source>Circle</source>
         <translation>Ympyrä</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="650"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="651"/>
         <source>&amp;Curve</source>
         <translation>&amp;Kaariviiva</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="208"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="430"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="209"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="431"/>
         <source>Curve</source>
         <translation>Kaariviiva</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="213"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="436"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="214"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="437"/>
         <source>Ellipse</source>
         <translation>Ellipsi</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="218"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="442"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="219"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="443"/>
         <source>Polyline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="228"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="454"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="229"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="455"/>
         <source>Dimension</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="233"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="460"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="234"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="461"/>
         <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="238"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="466"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="239"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="467"/>
         <source>Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="370"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="371"/>
         <source>Pen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="381"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="776"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="382"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="777"/>
         <source>Dock Areas</source>
         <translation>Telakointialueet</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="580"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="581"/>
         <source>&amp;Options</source>
         <translation>&amp;Asetukset</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="741"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="742"/>
         <source>&amp;Drawings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="771"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="772"/>
         <source>Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="812"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="813"/>
         <source>&amp;Toolbars</source>
         <translation>&amp;Työkalupalkit</translation>
     </message>
@@ -1384,7 +1384,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">CTRL + M</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="671"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="672"/>
         <source>&amp;Select</source>
         <translation>&amp;Valitse</translation>
     </message>
@@ -1393,7 +1393,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Piirrä</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="636"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="637"/>
         <source>&amp;Line</source>
         <translation>&amp;Viiva</translation>
     </message>
@@ -1402,17 +1402,17 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Kaari</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="643"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="644"/>
         <source>&amp;Circle</source>
         <translation>&amp;Ympyrä</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="657"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="658"/>
         <source>&amp;Ellipse</source>
         <translation>&amp;Ellipsi</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="664"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="665"/>
         <source>&amp;Polyline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1421,7 +1421,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Mitoitus</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="697"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="698"/>
         <source>&amp;Modify</source>
         <translation>&amp;Muuta</translation>
     </message>
@@ -1430,7 +1430,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Tartu</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="706"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="707"/>
         <source>&amp;Info</source>
         <translation>&amp;Info</translation>
     </message>
@@ -1448,17 +1448,17 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation>Luonnostila</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="322"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="323"/>
         <source>File</source>
         <translation>Tiedosto</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="329"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="330"/>
         <source>Edit</source>
         <translation>Muokkaa</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="350"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="351"/>
         <source>View</source>
         <translation>Näkymä</translation>
     </message>
@@ -1468,7 +1468,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2398"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="761"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="762"/>
         <source>About</source>
         <translation>Tietoa ohjelmasta</translation>
     </message>
@@ -1481,7 +1481,7 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Ikkuna</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="751"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="752"/>
         <source>&amp;Help</source>
         <translation>&amp;Ohje</translation>
     </message>
@@ -1490,33 +1490,33 @@ pisteiden välinen etäisyys=%2 on suurempi kuin halkaisija=%3</translation>
         <translation type="obsolete">&amp;Virheenetsintä</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="365"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="366"/>
         <source>Snap Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="374"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="375"/>
         <source>Tool Options</source>
         <translation>Työkalun valinnat</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="268"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="269"/>
         <source>Layer List</source>
         <translation>Tasolista</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="278"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="279"/>
         <source>Block List</source>
         <translation>Kappaleluettelo</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="288"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="289"/>
         <source>Library Browser</source>
         <translation>Kirjastoselain</translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2810"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="300"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="301"/>
         <source>Command line</source>
         <translation>Komentorivi</translation>
     </message>
@@ -1729,7 +1729,7 @@ ei voitu tallentaa. Tarkista tiedoston käyttöoikeudet.</translation>
         <translation>Tallennetaan piirrosta toisella tiedostonimellä...</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="565"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="566"/>
         <source>Export</source>
         <translation>Vie</translation>
     </message>
@@ -8440,7 +8440,7 @@ Continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="393"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="394"/>
         <source>Creators</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8481,7 +8481,7 @@ Continue?</source>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="3170"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="765"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="766"/>
         <source>License</source>
         <translation type="unfinished">Lisenssi</translation>
     </message>

@@ -1310,152 +1310,152 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">插入图块 &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="487"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="488"/>
         <source>Categories</source>
         <translation>类别</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="557"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="558"/>
         <source>&amp;File</source>
         <translation>文件(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="561"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="562"/>
         <source>Import</source>
         <translation>导入</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="591"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="592"/>
         <source>&amp;Edit</source>
         <translation>编辑(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="606"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="607"/>
         <source>Pl&amp;ugins</source>
         <translation>插件(&amp;u)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="630"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="631"/>
         <source>&amp;Tools</source>
         <translation>工具(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="679"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="680"/>
         <source>Dime&amp;nsion</source>
         <translation>标注(&amp;n)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="687"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="688"/>
         <source>&amp;Order</source>
         <translation>排序(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="755"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="756"/>
         <source>Online</source>
         <translation>在线</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="786"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="787"/>
         <source>Dock Wid&amp;gets</source>
         <translation>面板(&amp;g)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="341"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="342"/>
         <source>Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="612"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="613"/>
         <source>&amp;View</source>
         <translation>视图(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="223"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="448"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="224"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="449"/>
         <source>Select</source>
         <translation type="unfinished">选择</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="198"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="418"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="199"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="419"/>
         <source>Line</source>
         <translation type="unfinished">直线</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="203"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="424"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="204"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="425"/>
         <source>Circle</source>
         <translation type="unfinished">圆</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="650"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="651"/>
         <source>&amp;Curve</source>
         <translation>曲线(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="208"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="430"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="209"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="431"/>
         <source>Curve</source>
         <translation>曲线</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="213"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="436"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="214"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="437"/>
         <source>Ellipse</source>
         <translation type="unfinished">椭圆</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="218"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="442"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="219"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="443"/>
         <source>Polyline</source>
         <translation type="unfinished">多段线</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="228"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="454"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="229"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="455"/>
         <source>Dimension</source>
         <translation type="unfinished">标注</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="233"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="460"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="234"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="461"/>
         <source>Modify</source>
         <translation type="unfinished">修改</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="238"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="466"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="239"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="467"/>
         <source>Info</source>
         <translation type="unfinished">查询</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="370"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="371"/>
         <source>Pen</source>
         <translation type="unfinished">画笔</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="381"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="776"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="382"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="777"/>
         <source>Dock Areas</source>
         <translation>面板区域</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="580"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="581"/>
         <source>&amp;Options</source>
         <translation>选项(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="741"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="742"/>
         <source>&amp;Drawings</source>
         <translation>图纸(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="771"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="772"/>
         <source>Widgets</source>
         <translation type="unfinished">窗体</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="812"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="813"/>
         <source>&amp;Toolbars</source>
         <translation>工具栏(&amp;T)</translation>
     </message>
@@ -1468,7 +1468,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">CTRL+M</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="671"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="672"/>
         <source>&amp;Select</source>
         <translation>选择(&amp;S)</translation>
     </message>
@@ -1481,7 +1481,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">点(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="636"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="637"/>
         <source>&amp;Line</source>
         <translation>直线(&amp;L)</translation>
     </message>
@@ -1490,12 +1490,12 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">圆弧(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="643"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="644"/>
         <source>&amp;Circle</source>
         <translation>圆(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="657"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="658"/>
         <source>&amp;Ellipse</source>
         <translation>椭圆(&amp;E)</translation>
     </message>
@@ -1504,7 +1504,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">样条曲线(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="664"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="665"/>
         <source>&amp;Polyline</source>
         <translation>多段线(&amp;P)</translation>
     </message>
@@ -1513,7 +1513,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">标注(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="697"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="698"/>
         <source>&amp;Modify</source>
         <translation>修改(&amp;M)</translation>
     </message>
@@ -1522,7 +1522,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">捕捉(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="706"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="707"/>
         <source>&amp;Info</source>
         <translation>查询(&amp;I)</translation>
     </message>
@@ -1544,7 +1544,7 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2398"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="761"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="762"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
@@ -1561,7 +1561,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">窗口(&amp;W)</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="751"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="752"/>
         <source>&amp;Help</source>
         <translation>帮助(&amp;H)</translation>
     </message>
@@ -1574,12 +1574,12 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">选择画笔</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="365"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="366"/>
         <source>Snap Selection</source>
         <translation>选择捕捉点方式</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="374"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="375"/>
         <source>Tool Options</source>
         <translation>工具选项</translation>
     </message>
@@ -1589,23 +1589,23 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">CAD 工具</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="268"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="269"/>
         <source>Layer List</source>
         <translation>图层列表</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="278"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="279"/>
         <source>Block List</source>
         <translation>图块列表</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="288"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="289"/>
         <source>Library Browser</source>
         <translation>库浏览器</translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2810"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="300"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="301"/>
         <source>Command line</source>
         <translation>命令行</translation>
     </message>
@@ -1854,17 +1854,17 @@ Please check the permissions.</source>
         <translation>草图模式</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="322"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="323"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="565"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="566"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="329"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="330"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
@@ -1873,7 +1873,7 @@ Please check the permissions.</source>
         <translation type="obsolete">绘图&amp;图层顺序</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="350"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="351"/>
         <source>View</source>
         <translation>视图</translation>
     </message>
@@ -11130,7 +11130,7 @@ Continue?</source>
         <translation type="unfinished">窗体</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="393"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="394"/>
         <source>Creators</source>
         <translation type="unfinished">创建器</translation>
     </message>
@@ -11171,7 +11171,7 @@ Continue?</source>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="3170"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="765"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="766"/>
         <source>License</source>
         <translation type="unfinished">许可</translation>
     </message>
