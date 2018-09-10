@@ -17,11 +17,6 @@
         <translation type="obsolete">Schablonendatei</translation>
     </message>
     <message>
-        <location filename="../importshp/importshp.cpp" line="34"/>
-        <source>ESRI Shapefile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../importshp/importshp.cpp" line="40"/>
         <source>Import ESRI Shapefile</source>
         <translation>ESRI Shapedaten importieren</translation>
@@ -67,11 +62,6 @@
         <location filename="../gear/gear.cpp" line="40"/>
         <source>Gear plugin</source>
         <translation>Zahnrad Plugin</translation>
-    </message>
-    <message>
-        <location filename="../gear/gear.cpp" line="59"/>
-        <source>select center</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

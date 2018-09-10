@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ja">
+<TS version="2.1" language="ja">
 <context>
     <name>ColorWizard</name>
     <message>
@@ -1868,7 +1868,7 @@ Please check its existence and permissions.</source>
     </message>
     <message>
         <source>DefaultCustom</source>
-        <translation>常用</translation>
+        <translation type="unfinished">カスタム操作</translation>
     </message>
 </context>
 <context>

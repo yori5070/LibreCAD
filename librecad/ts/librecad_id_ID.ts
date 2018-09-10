@@ -1229,126 +1229,126 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">Menjalankan skrip %1&apos;</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="488"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="487"/>
         <source>Categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="558"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="557"/>
         <source>&amp;File</source>
         <translation>&amp;Berkas</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="562"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="561"/>
         <source>Import</source>
         <translation>Impor</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="592"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="591"/>
         <source>&amp;Edit</source>
         <translation>&amp;Sunting</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="688"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="687"/>
         <source>&amp;Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="342"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="341"/>
         <source>Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="613"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="612"/>
         <source>&amp;View</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="224"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="449"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="223"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="448"/>
         <source>Select</source>
         <translation type="unfinished">Pilih</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="199"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="419"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="198"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="418"/>
         <source>Line</source>
         <translation type="unfinished">Garis</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="204"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="425"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="203"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="424"/>
         <source>Circle</source>
         <translation type="unfinished">Lingkaran</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="651"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="650"/>
         <source>&amp;Curve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="209"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="431"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="208"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="430"/>
         <source>Curve</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="214"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="437"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="213"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="436"/>
         <source>Ellipse</source>
         <translation type="unfinished">Lonjong</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="219"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="443"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="218"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="442"/>
         <source>Polyline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="229"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="455"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="228"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="454"/>
         <source>Dimension</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="234"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="461"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="233"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="460"/>
         <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="239"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="467"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="238"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="466"/>
         <source>Info</source>
         <translation type="unfinished">Info</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="371"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="370"/>
         <source>Pen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="607"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="606"/>
         <source>Pl&amp;ugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="680"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="679"/>
         <source>Dime&amp;nsion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="772"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="771"/>
         <source>Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="787"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="786"/>
         <source>Dock Wid&amp;gets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="813"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="812"/>
         <source>&amp;Toolbars</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1357,7 +1357,7 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">CTRL+M</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="672"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="671"/>
         <source>&amp;Select</source>
         <translation></translation>
     </message>
@@ -1366,58 +1366,58 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">&amp;Gambar</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="382"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="777"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="381"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="776"/>
         <source>Dock Areas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="581"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="580"/>
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="631"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="630"/>
         <source>&amp;Tools</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="637"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="636"/>
         <source>&amp;Line</source>
         <translation>&amp;Garis</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="644"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="643"/>
         <source>&amp;Circle</source>
         <translation>&amp;Lingkaran</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="658"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="657"/>
         <source>&amp;Ellipse</source>
         <translation>&amp;Lonjong</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="665"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="664"/>
         <source>&amp;Polyline</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="698"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="697"/>
         <source>&amp;Modify</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="707"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="706"/>
         <source>&amp;Info</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="742"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="741"/>
         <source>&amp;Drawings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="756"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="755"/>
         <source>Online</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1431,17 +1431,17 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="323"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="322"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="330"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="329"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="351"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="350"/>
         <source>View</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1455,7 +1455,7 @@ distance between points=%2 is larger than diameter=%3</source>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2398"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="762"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="761"/>
         <source>About</source>
         <translation>Tentang</translation>
     </message>
@@ -1468,38 +1468,38 @@ distance between points=%2 is larger than diameter=%3</source>
         <translation type="obsolete">Masukkan Gambar</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="752"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="751"/>
         <source>&amp;Help</source>
         <translation>&amp;Bantuan</translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="366"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="365"/>
         <source>Snap Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="375"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="374"/>
         <source>Tool Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="269"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="268"/>
         <source>Layer List</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="279"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="278"/>
         <source>Block List</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="289"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="288"/>
         <source>Library Browser</source>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="2810"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="301"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="300"/>
         <source>Command line</source>
         <translation></translation>
     </message>
@@ -1654,7 +1654,7 @@ Please check the permissions.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="566"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="565"/>
         <source>Export</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9621,7 +9621,7 @@ Continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="394"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="393"/>
         <source>Creators</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9662,7 +9662,7 @@ Continue?</source>
     </message>
     <message>
         <location filename="../src/main/qc_applicationwindow.cpp" line="3170"/>
-        <location filename="../src/ui/lc_widgetfactory.cpp" line="766"/>
+        <location filename="../src/ui/lc_widgetfactory.cpp" line="765"/>
         <source>License</source>
         <translation type="unfinished"></translation>
     </message>
